@@ -1,4 +1,4 @@
-This is the solution of the tasked taken fron below URL and mentioned below
+This is the solution of the tasked taken from below URL and mentioned below
 
 // https://www.jobreadyprogrammer.com/blog/5893/oop-api-assignment
 
